@@ -1,0 +1,6 @@
+[submodule "jwt-backend-test"]
+	path = jwt-backend-test
+	url = https://github.com/khalegjr/jwt-backend-test.git
+[submodule "jwt-frontend-test"]
+	path = jwt-frontend-test
+	url = https://github.com/khalegjr/jwt-frontend-test.git
